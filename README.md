@@ -37,18 +37,6 @@ Built with **Streamlit** and **OpenAI GPT**, this app creates quizzes on any top
 
 ---
 
-## 👨‍💻 Contributing
-
-🙌 Contributions welcome!
-Feel free to fork this repo, create a new branch, and submit a pull request.
-
----
-
-## 📜 License
-
-This project is open-sourced under the MIT License.
-
----
 
 ## 🌟 Acknowledgments
 
